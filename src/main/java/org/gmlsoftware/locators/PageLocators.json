@@ -1,0 +1,12 @@
+{
+  "loginPage": {
+    "mailField": "mail",
+    "nextButton": "login",
+    "passwordField": "userpass",
+    "loginButton": "loginButton"
+  },
+  "loggedPage": {
+    "accountButton": "",
+    "mailLogged": ""
+  }
+}
